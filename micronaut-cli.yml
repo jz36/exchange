@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.zykov
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, hibernate-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, management, micronaut-build, netty-server, postgres, readme, shade, testcontainers, yaml]
